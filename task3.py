@@ -1,0 +1,6 @@
+a=int(input())
+pre=str(a-1)
+next=str(a+1)
+a=str(a)
+print('The next number for the number' {a} 'is' {next})
+print('The previous number for the number' {a}) 'is' {pre})
